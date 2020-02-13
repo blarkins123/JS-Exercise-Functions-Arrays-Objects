@@ -61,7 +61,7 @@ function makePersonObject(id, name, email) {
  * the returned value should look like `Hello, my name is Leia`.
 */
 function getName(object) {
-  return "Hello, my name is ${object.name}"
+  return 'Hello, my name is ${object.name}';
 }
 
 /**
